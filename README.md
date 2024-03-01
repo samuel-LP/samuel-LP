@@ -2,7 +2,7 @@
 
 🙋🏻‍♂️ Hi ! I am Samuel, a 23 years old Data Scientist from Paris, France. 
 
-🔎 My favorite subjects in Data Science are Machine Learning and NLP.
+💘 My favorite subjects in Data Science are Machine Learning and NLP.
 
 🧑🏻‍💻 I am currently working as a NLP R&D Data Scientist at [Ryte](https://ryte.ai/) France.
 
