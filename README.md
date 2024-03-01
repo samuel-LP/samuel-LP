@@ -10,7 +10,7 @@
 
 👀 I am interested in working on Machine Learning, NLP, Generative AI, LLMs, and Python development!
 
-## 📧 How to contact me ?
+### 📧 How to contact me ?
 
 You can contact me on my LinkedIn profile : [Samuel Pariente Launay](https://www.linkedin.com/in/samuel-launay/)
 
