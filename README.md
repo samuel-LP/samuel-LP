@@ -6,7 +6,7 @@
 
 🧑🏻‍💻 I am currently working as a NLP R&D Data Scientist at [Ryte](https://ryte.ai/) France.
 
-👨🏻‍🎓 I am currently studying Data Science in the [MoSEF](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/master-M/master-econometrie-statistiques-KBURDRPJ/master-parcours-modelisations-statistiques-economiques-et-financieres-mosef-formation-initiale-et-apprentissage-KBURDRT5.html) Master's degree program at Paris 1 Panthéon-Sorbonne University.
+👨🏻‍🎓 I graduated from the [MoSEF](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/master-M/master-econometrie-statistiques-KBURDRPJ/master-parcours-modelisations-statistiques-economiques-et-financieres-mosef-formation-initiale-et-apprentissage-KBURDRT5.html) Data Science Master's degree at Paris 1 Panthéon-Sorbonne University.
 
 👀 I am interested in working on Machine Learning, NLP, Generative AI, LLMs, and Python development!
 
