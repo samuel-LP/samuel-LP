@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 🙋🏻‍♂️ Hi ! I am Samuel, a 24 years old Data Scientist from Paris, France. 
 
