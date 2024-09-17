@@ -4,7 +4,7 @@
 
 💘 My favorite subjects in Data Science are NLP, Machine Learning and MLOps.
 
-🧑🏻‍💻 I am currently working as a NLP R&D Data Scientist at [Ryte](https://ryte.ai/) France.
+🧑🏻‍💻 I am currently working on NLP project and RAG development.
 
 👨🏻‍🎓 I graduated from the [MoSEF](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/master-M/master-econometrie-statistiques-KBURDRPJ/master-parcours-modelisations-statistiques-economiques-et-financieres-mosef-formation-initiale-et-apprentissage-KBURDRT5.html) Data Science Master's degree at Paris 1 Panthéon-Sorbonne University.
 
