@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-🙋🏻‍♂️ Hi ! I am Samuel, a 24 years old Data Scientist from Paris, France. 
+🙋🏻‍♂️ Hi ! I am Samuel, a 24 years old Data Scientist living in Montreal, Canada 
 
 💘 My favorite subjects in Data Science are NLP, Machine Learning and MLOps.
 
