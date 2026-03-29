@@ -1,14 +1,12 @@
 ## Hello there 👋
 
-🙋🏻‍♂️ Hi ! I am Samuel, a 24 years old Data Scientist living in Montreal, Canada 
+🙋🏻‍♂️ Hi ! I am Samuel, a 26 years old Data Scientist living in Montreal, Canada 
 
-💘 My favorite subjects in Data Science are NLP, Machine Learning and MLOps.
-
-🧑🏻‍💻 I am currently working on NLP project and RAG development.
+💘 My favorite subjects in Data Science are Agentic AI and clasic ML.
 
 👨🏻‍🎓 I graduated from the [MoSEF](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/master-M/master-econometrie-statistiques-KBURDRPJ/master-parcours-modelisations-statistiques-economiques-et-financieres-mosef-formation-initiale-et-apprentissage-KBURDRT5.html) Data Science Master's degree at Paris 1 Panthéon-Sorbonne University.
 
-👀 I am interested in working on Machine Learning, NLP, Generative AI, LLMs, and Python development!
+💼 I am a consultant data scientist at Moov AI
 
 ## 📧 How to contact me ?
 
